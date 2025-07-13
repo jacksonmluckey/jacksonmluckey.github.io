@@ -1,0 +1,26 @@
+---
+title: "Jackson M Luckey"
+---
+
+## Education
+
+- **Visiting Doctoral Researcher**, Hertie School - *2025-2026*
+- **Masters in Data Science for Public Policy**, Hertie School — *2023–2025*
+- **BA in Economics**, Reed College — *2016–2020*
+
+## Experience
+
+- **Instructor for Math and R Bootcamp**, Hertie School -*2025*
+- **Research Assistant for Professor [Asya Magazinnik](https://static1.squarespace.com/static/5864202ad2b8574e99ae0d71/t/684185096805776a0b8aa290/1749124362065/Magazinnik_CV.pdf)**, Hertie School -*2024-*
+- **Lead TA for Causal Inference and Statistical Modelling**, Hertie School -*2024*
+- **Health Economist**, RTI International — *2020–2023*
+- **Data Science Education Consultant**, Reed College — *2017–2020*
+- **Statistical Analysis Intern**, RTI International — *Summer 2019*
+- **Business Development and Intelligence Intern**, FEI — *Summer 2018*
+- **Freelance Full Stack Developer** — *Full-time 2014–2016, intermittent part-time afterwards*
+
+## Publications
+
+- [An economic analysis of community costs incurred to implement the communities that HEAL intervention to reduce opioid overdose deaths in four states](https://www.sciencedirect.com/science/article/abs/pii/S0376871625001243)
+- [Cost and cost-effectiveness of abstinence-contingent wage supplements for adults experiencing homelessness and alcohol use disorder](https://www.sciencedirect.com/science/article/abs/pii/S2949875924002819)
+- [Cost and cost-effectiveness of abstinence contingent wage supplements](https://www.sciencedirect.com/science/article/abs/pii/S0376871622004914)

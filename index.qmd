@@ -4,19 +4,19 @@ title: "Jackson M Luckey"
 
 ## EDUCATION
 
-### **Visiting Doctoral Researcher**, Hertie School - *2025-2026*
+### **Visiting Doctoral Researcher** at Hertie School (2025-2026)
 
-### **Masters in Data Science for Public Policy**, Hertie School — *2023–2025*
+### **Masters in Data Science for Public Policy** at Hertie School (2023–2025)
 
 Received [President's Award](https://www.hertie-school.org/en/news/detail/content/2024-daad-prize-deans-prize-and-presidents-prize-awarded-to-outstanding-hertie-students). Exchange at Tsinghua University in Fall 2024. Thesis on nation-wide internal migration ("chain of moves") in the US associated with new housing construction in high-demand cities.
 
-### **Bachelors in Economics**, Reed College — *2016–2020*
+### **Bachelors in Economics** at Reed College (2016–2020)
 
 Thesis on the social determinants of opioid use in the US.
 
 ## EXPERIENCE
 
-### **Doctoral Researcher**, Hertie School, -*2025-2026*
+### **Doctoral Researcher** at Hertie School (2025-2026)
 
 - Developed machine learning models to predict residential permitting and construction times
   using cellphone location records, satelitte imagery, demographics, and other data.
@@ -30,29 +30,29 @@ Thesis on the social determinants of opioid use in the US.
 
 ### Teaching at Hertie School
 
-#### **Lab Instructor and TA for Data Structures and Algorithms**, -*Spring 2026*
+#### **Lab Instructor and TA for Data Structures and Algorithms** (Spring 2026)
 
 Taught the lab component of the course, developed the lab teaching materials and problem sets (as the curriculum was significantly reworked), and graded problem sets and exams.
 
-#### **Instructor for Python Bootcamp**, -*Winter 2026*
+#### **Instructor for Python Bootcamp** (Winter 2026)
 
 Developed a curriculum and teaching materials for and then taught a 3 day (i.e. 24 hours) bootcamp introducing Python, using NumPy to implement machine learning algorithms, and then using Pandas, Polars, and Flask to work with tabular data and create APIs.
 
-#### **Lab Instructor and TA for Mathematics for Data Science**, -*Fall 2025*
+#### **Lab Instructor and TA for Mathematics for Data Science** (Fall 2025)
 
 - Taught the lab component of the course, which provides an introductory overview of probability and basic statistics, calculus, linear algebra, and optimization.
 - Updated labs and problem sets.
 - Graded problem sets and exams and helped write the exam.
 
-#### **Instructor for R and Math Bootcamp**, -*Spring 2025*
+#### **Instructor for R and Math Bootcamp** (Summer 2025)
 
 Developed a curriculum and teaching materials for and then taught a 3 day (i.e. 24 hours) bootcamp on R combined with introducing statistics and linear algebra.
 
-#### **Lead TA for Causal Inference and Statistical Modelling**, Hertie School -*2024*
+#### **Lead TA for Causal Inference and Statistical Modelling** (Spring 2024)
 
 Taught the weekly labs and graded problem sets for a course introducing causal inference and (basic) statistical modelling in R to Masters in Public Policy students.
 
-### **Research Assistant for Professor [Asya Magazinnik](https://static1.squarespace.com/static/5864202ad2b8574e99ae0d71/t/684185096805776a0b8aa290/1749124362065/Magazinnik_CV.pdf)**, Hertie School -*2024-2026*
+### **Research Assistant for Professor [Asya Magazinnik](https://static1.squarespace.com/static/5864202ad2b8574e99ae0d71/t/684185096805776a0b8aa290/1749124362065/Magazinnik_CV.pdf)** at Hertie School (2024-2026)
 
 - Researched existing literature on modeling housing construction data using large
 indirect datasets (e.g. web searches, traffic data).
@@ -61,7 +61,7 @@ a variety of approaches (e.g. fuzzy merging, LLMs), and then built a database.
 - Ran simulations of conjoint surveys to determine required sample size and therefore feasibility of projects looking at political support for immigrants and changes to the built environment.
 - Developed a process using LLMs to fuzzy-join datasets with organization descriptions written in a variety of European languages (24 total).
 
-### **Health Economist**, RTI International — *2020–2023*
+### **Health Economist** at RTI International (2020–2023)
 
 - Conducted cost-effectiveness and cost-benefit analyses of behavioral-health
   programs and co-authored peer-reviewed articles in health economics and policy
@@ -78,7 +78,7 @@ a variety of approaches (e.g. fuzzy merging, LLMs), and then built a database.
   health-insurance executives, and government health staff.
 - Mentored new staff and interns in R, Stata, and economic evaluation methods.
 
-### **Data Science Education Consultant**, Reed College — *2017–2020*
+### **Data Science Education Consultant** at Reed College (2017–2020)
 
 - Co-taught workshops on statistical programming (R, Python, Stata), data
   visualization, and spatial analysis / GIS.
@@ -87,7 +87,7 @@ designs and programmed components necessary for their research. For example,
 creating a “lootbox” game as part of a thesis evaluating the rationality of video game
 players.
 
-### **Statistical Analysis Intern**, RTI International — *Summer 2019*
+### **Statistical Analysis Intern** at RTI International (Summer 2019)
 
 - Modelled health outcomes for subpopulations for a post hoc analysis of a RCT.
 - Created visualizations of the spatial distribution of government funding for behavioral
@@ -97,13 +97,13 @@ clients.
 - Converted Stata code to Python to scale an existing statistical analysis process for use
 on datasets that could not be ran on a single machine.
 
-### **Business Development and Intelligence Intern**, FEI — *Summer 2018*
+### **Business Development and Intelligence Intern** at FEI (Summer 2018)
 
 Developed a pipeline for combining a variety of information sources (archived emails,
 Excel spreadsheets, PDFs) into an organized database of funding for behavioral
 health interventions and potential public-private business opportunities.
 
-### **Freelance Full Stack Developer** — *Full-time 2014–2016, intermittent part-time afterwards*
+### **Freelance Full Stack Developer** (Full-time 2014–2016, intermittent part-time afterwards)
 
 Developed and updated websites using Django, Ruby on Rails, and Wordpress. Helped small businesses implement analytics to track KPIs.
 

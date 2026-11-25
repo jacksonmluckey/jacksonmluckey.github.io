@@ -10,8 +10,11 @@ title: "Jackson M Luckey"
 
 ## Experience
 
+- **Doctoral Researcher**, Hertie School, -*2025-2026*
+- **Lead TA and Lab Instructor for Data Structures and Algorithms**, Hertie School, -*Spring 2026*
+- **Lab Instructor for Mathematics for Data Science**, Hertie School, -*Fall 2025*
 - **Instructor for Math and R Bootcamp**, Hertie School -*2025*
-- **Research Assistant for Professor [Asya Magazinnik](https://static1.squarespace.com/static/5864202ad2b8574e99ae0d71/t/684185096805776a0b8aa290/1749124362065/Magazinnik_CV.pdf)**, Hertie School -*2024-*
+- **Research Assistant for Professor [Asya Magazinnik](https://static1.squarespace.com/static/5864202ad2b8574e99ae0d71/t/684185096805776a0b8aa290/1749124362065/Magazinnik_CV.pdf)**, Hertie School -*2024-2026*
 - **Lead TA for Causal Inference and Statistical Modelling**, Hertie School -*2024*
 - **Health Economist**, RTI International — *2020–2023*
 - **Data Science Education Consultant**, Reed College — *2017–2020*

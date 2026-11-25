@@ -2,28 +2,129 @@
 title: "Jackson M Luckey"
 ---
 
-## Education
+## EDUCATION
 
-- **Visiting Doctoral Researcher**, Hertie School - *2025-2026*
-- **Masters in Data Science for Public Policy**, Hertie School — *2023–2025*
-- **BA in Economics**, Reed College — *2016–2020*
+### **Visiting Doctoral Researcher**, Hertie School - *2025-2026*
 
-## Experience
+### **Masters in Data Science for Public Policy**, Hertie School — *2023–2025*
 
-- **Doctoral Researcher**, Hertie School, -*2025-2026*
-- **Lead TA and Lab Instructor for Data Structures and Algorithms**, Hertie School, -*Spring 2026*
-- **Lab Instructor for Mathematics for Data Science**, Hertie School, -*Fall 2025*
-- **Instructor for Math and R Bootcamp**, Hertie School -*2025*
-- **Research Assistant for Professor [Asya Magazinnik](https://static1.squarespace.com/static/5864202ad2b8574e99ae0d71/t/684185096805776a0b8aa290/1749124362065/Magazinnik_CV.pdf)**, Hertie School -*2024-2026*
-- **Lead TA for Causal Inference and Statistical Modelling**, Hertie School -*2024*
-- **Health Economist**, RTI International — *2020–2023*
-- **Data Science Education Consultant**, Reed College — *2017–2020*
-- **Statistical Analysis Intern**, RTI International — *Summer 2019*
-- **Business Development and Intelligence Intern**, FEI — *Summer 2018*
-- **Freelance Full Stack Developer** — *Full-time 2014–2016, intermittent part-time afterwards*
+Received [President's Award](https://www.hertie-school.org/en/news/detail/content/2024-daad-prize-deans-prize-and-presidents-prize-awarded-to-outstanding-hertie-students). Exchange at Tsinghua University in Fall 2024. Thesis on nation-wide internal migration ("chain of moves") in the US associated with new housing construction in high-demand cities.
 
-## Publications
+### **Bachelors in Economics**, Reed College — *2016–2020*
 
-- [An economic analysis of community costs incurred to implement the communities that HEAL intervention to reduce opioid overdose deaths in four states](https://www.sciencedirect.com/science/article/abs/pii/S0376871625001243)
-- [Cost and cost-effectiveness of abstinence-contingent wage supplements for adults experiencing homelessness and alcohol use disorder](https://www.sciencedirect.com/science/article/abs/pii/S2949875924002819)
-- [Cost and cost-effectiveness of abstinence contingent wage supplements](https://www.sciencedirect.com/science/article/abs/pii/S0376871622004914)
+Thesis on the social determinants of opioid use in the US.
+
+## EXPERIENCE
+
+### **Doctoral Researcher**, Hertie School, -*2025-2026*
+
+- Developed machine learning models to predict residential permitting and construction times
+  using cellphone location records, satelitte imagery, demographics, and other data.
+- Worked on estimating the causal effect of new housing developments on rents and house prices at the city, local, and national level.
+- Laid the groundwork to run an experiment on an European housing platform to measure discrimination against Roma people in housing markets and evaluate potential interventions.
+- Evaluated LLMs as competitive agents in simultaneous ascending auction settings.
+- Worked on methods for evaluating causal effects in market settings (where all units influence all other units).
+- Experimented with LLMs in game theory settings to try to identify triggers for undesirable strategic behavior.
+- Modelled the impact of changing political boundaries on support for new housing development in order to disentangle 
+- Developed a pipeline for coding building permits (often unstructured, lots of free text) across the US to identify new housing construction permitting in cities across the US.
+
+### Teaching at Hertie School
+
+#### **Lab Instructor and TA for Data Structures and Algorithms**, -*Spring 2026*
+
+Taught the lab component of the course, developed the lab teaching materials and problem sets (as the curriculum was significantly reworked), and graded problem sets and exams.
+
+#### **Instructor for Python Bootcamp**, -*Winter 2026*
+
+Developed a curriculum and teaching materials for and then taught a 3 day (i.e. 24 hours) bootcamp introducing Python, using NumPy to implement machine learning algorithms, and then using Pandas, Polars, and Flask to work with tabular data and create APIs.
+
+#### **Lab Instructor and TA for Mathematics for Data Science**, -*Fall 2025*
+
+- Taught the lab component of the course, which provides an introductory overview of probability and basic statistics, calculus, linear algebra, and optimization.
+- Updated labs and problem sets.
+- Graded problem sets and exams and helped write the exam.
+
+#### **Instructor for R and Math Bootcamp**, -*Spring 2025*
+
+Developed a curriculum and teaching materials for and then taught a 3 day (i.e. 24 hours) bootcamp on R combined with introducing statistics and linear algebra.
+
+#### **Lead TA for Causal Inference and Statistical Modelling**, Hertie School -*2024*
+
+Taught the weekly labs and graded problem sets for a course introducing causal inference and (basic) statistical modelling in R to Masters in Public Policy students.
+
+### **Research Assistant for Professor [Asya Magazinnik](https://static1.squarespace.com/static/5864202ad2b8574e99ae0d71/t/684185096805776a0b8aa290/1749124362065/Magazinnik_CV.pdf)**, Hertie School -*2024-2026*
+
+- Researched existing literature on modeling housing construction data using large
+indirect datasets (e.g. web searches, traffic data).
+- Collected known high-quality housing permitting data, converted them into a structured format using
+a variety of approaches (e.g. fuzzy merging, LLMs), and then built a database.
+- Ran simulations of conjoint surveys to determine required sample size and therefore feasibility of projects looking at political support for immigrants and changes to the built environment.
+- Developed a process using LLMs to fuzzy-join datasets with organization descriptions written in a variety of European languages (24 total).
+
+### **Health Economist**, RTI International — *2020–2023*
+
+- Conducted cost-effectiveness and cost-benefit analyses of behavioral-health
+  programs and co-authored peer-reviewed articles in health economics and policy
+  journals.
+- Worked for the Health Economics team on the Healing Communities
+  Study (a national evaluation of interventions to reduce opioid overdose
+  deaths across four states).
+- Built statistical models in R, Python, and Stata to answer policy questions for
+  stakeholders, public officials, and private-sector clients.
+- Developed internal packages for repeated data tasks involving EHRs and claims data.
+- Built data pipelines and R/Shiny dashboards so non-technical stakeholders could
+  work with evaluation data.
+- Presented research and policy recommendations to academics, elected officials,
+  health-insurance executives, and government health staff.
+- Mentored new staff and interns in R, Stata, and economic evaluation methods.
+
+### **Data Science Education Consultant**, Reed College — *2017–2020*
+
+- Co-taught workshops on statistical programming (R, Python, Stata), data
+  visualization, and spatial analysis / GIS.
+- Assisted students with translating thesis proposals into feasible quantitative research
+designs and programmed components necessary for their research. For example,
+creating a “lootbox” game as part of a thesis evaluating the rationality of video game
+players.
+
+### **Statistical Analysis Intern**, RTI International — *Summer 2019*
+
+- Modelled health outcomes for subpopulations for a post hoc analysis of a RCT.
+- Created visualizations of the spatial distribution of government funding for behavioral
+healthcare.
+- Designed and developed dashboards using R and Shiny for federal government
+clients.
+- Converted Stata code to Python to scale an existing statistical analysis process for use
+on datasets that could not be ran on a single machine.
+
+### **Business Development and Intelligence Intern**, FEI — *Summer 2018*
+
+Developed a pipeline for combining a variety of information sources (archived emails,
+Excel spreadsheets, PDFs) into an organized database of funding for behavioral
+health interventions and potential public-private business opportunities.
+
+### **Freelance Full Stack Developer** — *Full-time 2014–2016, intermittent part-time afterwards*
+
+Developed and updated websites using Django, Ruby on Rails, and Wordpress. Helped small businesses implement analytics to track KPIs.
+
+## PUBLICATIONS
+
+- ["An economic analysis of community costs incurred to implement the communities that HEAL intervention to reduce opioid overdose deaths in four states"](https://www.sciencedirect.com/science/article/abs/pii/S0376871625001243) (2025)
+- ["Cost and cost-effectiveness of abstinence-contingent wage supplements for adults experiencing homelessness and alcohol use disorder"](https://www.sciencedirect.com/science/article/abs/pii/S2949875924002819) (2025)
+- ["Cost and cost-effectiveness of abstinence contingent wage supplements"](https://www.sciencedirect.com/science/article/abs/pii/S0376871622004914) (2023)
+
+## TECHNICAL SKILLS
+
+### Tools
+
+- Python
+- R
+- SQL and RDBMS (particularly DuckDB, PostgreSQL, SQLite)
+- Linux (e.g. bash)
+- GIS
+
+### Methods
+
+- Causal inference (e.g. diff-in-diff, matching, RDD, IV, double ML, synthetic controls, partial identification, addressing interference)
+- Statistical modeling
+- Machine learning
